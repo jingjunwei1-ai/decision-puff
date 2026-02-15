@@ -1,4 +1,7 @@
+import React from "react";
 import { useMemo, useState } from "react";
+
+
 
 const MOTIVES = [
   { id: "A1", title: "A1｜解决问题", desc: "有个困扰想解决掉。" },
